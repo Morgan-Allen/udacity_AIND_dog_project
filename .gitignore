@@ -1,0 +1,8 @@
+
+*__pycache__
+dogImages/
+bottleneck_features/
+lfw/
+images/
+requirements/
+haarcascades/
